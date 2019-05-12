@@ -1,0 +1,23 @@
+{
+  "name": "sollybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "SollyWood",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "0.0.1-security",
+    "mongose": "^0.0.2-security",
+    "ms": "^2.1.1",
+    "opusscript": "^0.0.6",
+    "quick.db": "^6.3.2",
+    "superagent": "^4.1.0",
+    "ytdl-core": "^0.29.1"
+  }
+}
